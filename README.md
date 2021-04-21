@@ -1,6 +1,10 @@
 # Attendence-using-Facial-Recognition using opencv library in python
 IDE USED = Pycharm + Visual studio for c++ desktop development
 DEPENDENCIES = cmake, dilib, face_recognition,Numpy,Opencv
+The proposed system will reduce the paperwork where attendance will no longer involve any manual recording. The new system will also reduce the total time needed to do attendance recording. 
+
+The new system will acquire individual attendance by means of facial recognition to secure data accuracy of the attendance 
+
                    ############## WORKING STEPS #################
 STEP 1:  A set of data needed to be inputted into system which consists of individual’s name and their photos
 STEP 2:  Portrait acquisition can be done by using the camera to capture the faces of the individual
